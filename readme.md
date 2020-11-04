@@ -27,7 +27,7 @@ Contient un squelette de projet à intégrer à VsCode
 - Cloner le projet
 
 ```shell
-git clone http://gogs.lyceekastler.fr/II_Mbed/Mbed5_template_jlink.git <NOM_PROJET>
+git clone http://gogs.lyceekastler.fr/II_Mbed/Mbed6_Template_JLink.git <NOM_PROJET>
 ```
 
 - Se déplacer dans le répertoire du projet
