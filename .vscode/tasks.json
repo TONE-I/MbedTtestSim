@@ -7,7 +7,7 @@
     "showOutput": "always",
     "problemMatcher": {
         "owner": "cpp",
-        "fileLocation": ["relative", "${workspaceRoot}/mbed-os"],
+        "fileLocation": ["relative", "${workspaceRoot}"],
         "pattern": {
             "regexp": "^(.*):(\\d+):(\\d+):\\s+(warning|error):\\s+(.*)$",
             "file": 1,
